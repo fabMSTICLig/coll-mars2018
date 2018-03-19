@@ -27,6 +27,7 @@ Trois prototypes différents ont été réalisés:
 - Installer le logiciel arduino [lien](https://www.arduino.cc/en/Main/Software)
 - Installer le plugin pour la carte Wemos D1 mini (ESP8266). Suivre l'étape 1 du tutoriel suivant : [lien](https://projetsdiy.fr/programmer-esp8266-ide-arduino-librairies-gpio-web-serveur-client/)
 - Ajouter les bibliotèques suivantes (suivre ce tutoriel [lien](https://www.arduino.cc/en/Guide/Libraries))
--- Adafruit NeoPixel
--- Bounce2
+  - Adafruit NeoPixel
+  - Bounce2
+- Ajouter la librairie college se trouvant dans le dossier base dans les librairies arduino
 
