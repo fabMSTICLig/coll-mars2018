@@ -16,7 +16,17 @@ Il est composé de :
 
 L'apparance/coque du prototype est réalisée en papier. Les élèves la concoivent sur des logiciels tels que sketchup ou openscad. Ils doivent prendre en compte les dimentions des éléments qui sont intégrés au prototype.
 
-Trois prototype différents ont été réalisés:
+Trois prototypes différents ont été réalisés:
 - un PacMan sur lequel on peux poser un objet. Réagie a la présence d'objet. (ProjetSV)
 - une voiture dont le but est de toucher l'arriere de ou des voitures adverses pour leur faire perdre des point. (Projet2)
 - une voiture qui porte un téléphone. Réagie a la présence du téléphone. (Projet3)
+
+
+# Installation
+
+- Installer le logiciel arduino [lien](https://www.arduino.cc/en/Main/Software)
+- Installer le plugin pour la carte Wemos D1 mini (ESP8266). Suivre l'étape 1 du tutoriel suivant : [lien](https://projetsdiy.fr/programmer-esp8266-ide-arduino-librairies-gpio-web-serveur-client/)
+- Ajouter les bibliotèques suivantes (suivre ce tutoriel [lien](https://www.arduino.cc/en/Guide/Libraries))
+-- Adafruit NeoPixel
+-- Bounce2
+
